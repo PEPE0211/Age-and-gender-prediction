@@ -40,5 +40,5 @@ The model is built using TensorFlow and Keras. It consists of shared convolution
 ## Dataset
 This project uses the UTKFace dataset for training the model. The UTKFace dataset is a large-scale face dataset with age, gender, and ethnicity annotations. For more details and to download the dataset visit  [this Kaggle link]([https://susanqq.github.io/UTKFace/](https://www.kaggle.com/datasets/abhikjha/utk-face-cropped) - Download the dataset and explore its documentation.
 
-![Real-Time Prediction Snapshot](/images/snapshot.png "Real-Time Gender and Age Prediction")
+![Real-Time Prediction Snapshot](https://github.com/PEPE0211/Age-and-gender-prediction/blob/main/snapshot.png)
 
